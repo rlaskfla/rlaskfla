@@ -10,6 +10,7 @@
 * 소개: 생성형 AI와 음성 복제 기술을 활용해 전화 공포증이 있는 유저를 대신해 전화를 걸어주는 솔루션
 * 기술 스택: Gemini API, Twilio API, Azure
 * 링크: 🔗 [Callphobia Repository 바로가기](https://github.com/Legend-call-bot/front)
+* [🎨 콜포비아 피그마 기획안 보기](https://www.figma.com/site/GF3zGtpmKqSTOdeI3b2fv1/call-phobia?node-id=0-1&p=f&t=G72QRNdjeKFsohor-0)
 
 📦 [KT AI Agent] n8n 기반 단말기 재고 관리 자동화 (KT K-Digital Training)
 * 개발 기간: 2026.10
