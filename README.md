@@ -5,7 +5,7 @@
 🚀 Projects
 
 📞 [Callphobia] 콜포비아(전화 공포증) 극복을 위한 AI 대행 웹 서비스
-* 개발 기간: 2026.08 - 2026.09
+* 개발 기간: 2025.09 - 2026.11
 * 주요 역할: Product Planning & API Integration
 * 소개: 생성형 AI와 음성 복제 기술을 활용해 전화 공포증이 있는 유저를 대신해 전화를 걸어주는 솔루션
 * 기술 스택: Gemini API, Twilio API, Azure
@@ -13,7 +13,7 @@
 * [🎨 콜포비아 피그마 UI 보기](https://www.figma.com/site/GF3zGtpmKqSTOdeI3b2fv1/call-phobia?node-id=0-1&p=f&t=G72QRNdjeKFsohor-0)
 
 📦 [KT AI Agent] n8n 기반 단말기 재고 관리 자동화 (KT K-Digital Training)
-* 개발 기간: 2026.10
+* 개발 기간: 2026.09 - 2026.10
 * 주요 역할: Team Leader (조장) & PoC 기획/발표
 * 소개: IMEI/UPC 교차 검증 및 KPI 산출을 자동화하는 워크플로우 기획 및 임원진 대상 10분 PoC 시연
 * 기술 스택: n8n, ChatGPT, Claude (클레이메이션 홍보 영상 제작)
