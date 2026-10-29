@@ -5,7 +5,7 @@
 🚀 Projects
 
 📞 [Callphobia] 콜포비아(전화 공포증) 극복을 위한 AI 대행 웹 서비스
-* 개발 기간: 2025.09 - 2026.11
+* 개발 기간: 2025.09 - 2025.11
 * 주요 역할: Product Planning & API Integration
 * 소개: 생성형 AI와 음성 복제 기술을 활용해 전화 공포증이 있는 유저를 대신해 전화를 걸어주는 솔루션
 * 기술 스택: Gemini API, Twilio API, Azure
@@ -19,7 +19,7 @@
 * 기술 스택: n8n, ChatGPT, Claude (클레이메이션 홍보 영상 제작)
 
 👾 [RE:WORLD] 2000년대 Y2K 감성 싸이월드 재현 웹 프로젝트
-* 개발 기간: 2026.07 - 2026.09
+* 개발 기간: 2026.06 - 2026.08
 * 주요 역할: Frontend & AI Feature Planning
 * 소개: MediaPipe 핸드 트래킹 기술과 Gemini API를 활용한 픽셀 아트 스티커 변환 기능을 구현한 인터랙티브 웹
 * 기술 스택: MediaPipe, Gemini API, HTML/CSS/JavaScript
