@@ -17,6 +17,9 @@
 * 주요 역할: Team Leader (조장) & PoC 기획/발표
 * 소개: IMEI/UPC 교차 검증 및 KPI 산출을 자동화하는 워크플로우 기획 및 임원진 대상 10분 PoC 시연
 * 기술 스택: n8n, ChatGPT, Claude (클레이메이션 홍보 영상 제작)
+* 서비스 발표자료 : [4반_9조_발표자료.pdf](https://github.com/user-attachments/files/34163084/4._9._.pdf)
+* n8n 로직 :[Uploading WF01+02 (1).json…]()
+
 
 👾 [RE:WORLD] 2000년대 Y2K 감성 싸이월드 재현 웹 프로젝트
 * 개발 기간: 2026.06 - 2026.08
@@ -24,6 +27,7 @@
 * 소개: MediaPipe 핸드 트래킹 기술과 Gemini API를 활용한 픽셀 아트 스티커 변환 기능을 구현한 인터랙티브 웹
 * 기술 스택: MediaPipe, Gemini API, HTML/CSS/JavaScript
 * 링크: 🔗 [RE:WORLD Repository 바로가기](https://github.com/chaeyun050821-sketch/reworld)
+* 서비스 보기 : https://reworld-bay.vercel.app
 
 ⛺️ [AI TripMate] 파편화된 오프라인 팝업스토어 맞춤형 추천 웹 서비스
 * 개발 기간: 2025.09 - 2025.11
